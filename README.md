@@ -4,5 +4,5 @@
 <h1 align="center">CNN-based-and-Vision-Transformer-image-classification</h1>
 <h2 align="left">Basic Overview</h1>
 <p align="justify">
-    The primary purpose of this project is the clustering of customers including the analysis of the stability of the segments over time to implement an effective communication strategy
+    The objective of the project is the participation in the Kaggle competition 'Petals to the metal' with the creation of multiple powerful CNN-based and ViT models for classification of flower images with the use for the training of a TPU (Tensor Prodessing Unit)
 </p>
