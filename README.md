@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/FrancescoFran/Customer-analysis-for-marketing-strategy/assets/96301982/bfcfeeb1-acaf-471b-b9a2-6759fb821566">
+    <img width="200" src="https://github.com/FrancescoFran/CNN-based-and-Vision-Transformer-image-classification/assets/96301982/63e2b106-5180-4dc9-ab8c-7bc7d7efdc78">
 </p>
 <h1 align="center">CNN-based-and-Vision-Transformer-image-classification</h1>
 <h2 align="left">Basic Overview</h1>
